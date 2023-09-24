@@ -1,3 +1,5 @@
+![](logo.png)
+
 SummaryForEveryone is a groundbreaking open-source project that brings together algorithmic approaches and cutting-edge Large Language Models (LLMs) for text summarization. Our mission is to make high-quality summarization accessible to all, even on affordable resources.
 
 Key Features:
